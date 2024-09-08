@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img src="https://raw.githubusercontent.com/Uknowme-h/Uknowme-h/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Pravashx/Pravashx/output/snake.svg" alt="Snake animation" />
 
   
   <br/><br/><br/>
@@ -72,5 +72,5 @@
 <h1 align='center'>🐼<i>Stay awesome!</i>🐼</h1>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/Pravashx/Pravashx/Update/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
