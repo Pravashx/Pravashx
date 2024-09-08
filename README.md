@@ -14,7 +14,7 @@
 
  🌱 I’m currently learning **Express.js and React**.
 
- 💬 Ask me about anything [here](https://github.com/Pravashx/Pravashx/issues)\*\*.
+ 💬 Ask me about anything [here](https://github.com/Pravashx/Pravashx/issues).
 
  ⚡ "In a sea of variables, I remain the constant."
 
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,figma,,git" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,figma,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb" /><br>
 </div>
 
