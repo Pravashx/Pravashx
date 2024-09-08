@@ -6,7 +6,6 @@
 
 <h3 align="center">A passionate software developer from Nepal 🇳🇵</h3>
 
-
 <br/>
 
 <div align="center">
@@ -15,7 +14,7 @@
 
  🌱 I’m currently learning **Express.js and React**.
 
- 💬 Feel free to ask me about **Node.js, React, JavaScript, or anything else [here](https://github.com/Pravashx/Pravashx/issues)**. If you encounter any issues or have questions, just drop me a message!
+ 💬 Ask me about anything [here](https://github.com/Pravashx/Pravashx/issues)\*\*.
 
  ⚡ "In a sea of variables, I remain the constant."
 
@@ -38,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,java,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,figma,,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb" /><br>
 </div>
 
 <br/>
@@ -55,7 +54,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">🎀 Stats 🎀</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=Pravashx&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -69,7 +68,7 @@
 <hr/>
 
 <br/>
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1 align='center'>🐼<i>Stay awesome!</i>🐼</h1>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
