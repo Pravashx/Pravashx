@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  ![snake gif](https://github.com/Pravashx/Pravashx/blob/output/github-contribution-grid-snake-dark.svg)
+  <img src="https://raw.githubusercontent.com/Uknowme-h/Uknowme-h/output/snake.svg" alt="Snake animation" />
 
   
   <br/><br/><br/>
